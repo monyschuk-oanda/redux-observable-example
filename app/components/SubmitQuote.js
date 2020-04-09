@@ -18,7 +18,7 @@ export default class SubmitQuote extends React.Component {
     e.preventDefault();
     this.state.text = this.state.text.trim();
     this.props.saveQuote(this.state);
-    this.setState({text: ''});
+//    this.setState({text: ''});
 
   }
 
