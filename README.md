@@ -19,7 +19,11 @@ npm run serve
 //and 
 npm run dev
 ```
-
+## To See a Full Working Implementation
+```bash
+# check out a reference implementation that works as expected
+git checkout good_implementation
+```
 ## Packages used
 - React
 - redux
